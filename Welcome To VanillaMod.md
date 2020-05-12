@@ -1,3 +1,8 @@
-# Welcome to VanillaMod!
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you \nhave finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-[Hi there](api.github.com)
+# Let's start your modding journey!
+In this introductory course, you will be helping a village with some of the problems they have run into, and you will learn the basics of proramming along the way!
+
+Before starting this course, make sure you're logged in to a Minecraft Java Edition account. 
+
+When you're ready to start learning, click on the **Next** button in the top right!
+
+[Curriculum by TechLX](https://www.techlx.com/)
