@@ -1,3 +1,3 @@
-# Modding-101-lessons
+# Intro to Modding lessons
 
-These files contain the markdown for the lessons for the Intro to Modding for on [VanillaMod](https://www.vanillamod.com/)
+These are the markdown files for the lessons for the Intro to Modding for on [VanillaMod](https://www.vanillamod.com/)
